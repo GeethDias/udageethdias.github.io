@@ -15,7 +15,7 @@ Here’s a glimpse into my journey so far:
 
 - **Education**: Sri Lanka Institute for Information Technology (SLIIT), Mahanama College Colombo 03.
 - **Focus Areas**: Secure Authentication Systems, Network Security, Database Privacy, and Cyber Awareness.
-- **Research Interests**: Information Security Policies, Compliance Frameworks (e.g., ISO 27001), and Threat Modeling.
+- **Research Interests**: Malware, Forensics.
 
 ---
 
