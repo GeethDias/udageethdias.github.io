@@ -25,7 +25,7 @@ Here’s a glimpse into my journey so far:
    - Developed a full-stack platform for Lanka Electricity Private Company (LTD) to train employees on security policies and acceptable use standards.  
    - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), React Bootstrap.
 
-2. **Virtual Private Database for LECO**  
+2. **Primitive Root Calculator**  
    - Implemented Oracle VPD for granular data access control.  
    - Designed policies restricting user access to sensitive company data.
 
@@ -43,6 +43,11 @@ Here’s a glimpse into my journey so far:
 
 
 ---
+
+## Achievements
+
+   - 2nd Runners up at Capture the Flag Event Organized by ISACA Union of SLIIT
+   - 4th Place at Capture the flag event organized by Full Stack Commuinity of Asia Pacific Institute for Information Technology
 
 ## Contact Information
 
