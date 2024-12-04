@@ -39,9 +39,8 @@ Here’s a glimpse into my journey so far:
 
 ---
 
-## Location
+## My Publlications
 
-**Kelaniya, Sri Lanka**
 
 ---
 
