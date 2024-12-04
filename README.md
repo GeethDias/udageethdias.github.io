@@ -13,7 +13,7 @@ Hi! I'm **Udageeth Dias**, a third-year undergraduate specializing in **Cybersec
 I am driven by a passion for creating secure digital environments and leveraging modern technologies to solve real-world challenges. My interests lie at the intersection of **Cybersecurity**, **Web Development**, and **Data Privacy**.  
 Here’s a glimpse into my journey so far:
 
-- **Education**: Cybersecurity Undergraduate at SLIIT.
+- **Education**: Sri Lanka Institute for Information Technology (SLIIT), Mahanama College Colombo 03.
 - **Focus Areas**: Secure Authentication Systems, Network Security, Database Privacy, and Cyber Awareness.
 - **Research Interests**: Information Security Policies, Compliance Frameworks (e.g., ISO 27001), and Threat Modeling.
 
@@ -22,7 +22,7 @@ Here’s a glimpse into my journey so far:
 ## Key Projects
 
 1. **Security Awareness Web Application**  
-   - Developed a full-stack platform to train employees on security policies and acceptable use standards.  
+   - Developed a full-stack platform for Lanka Electricity Private Company (LTD) to train employees on security policies and acceptable use standards.  
    - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), React Bootstrap.
 
 2. **Virtual Private Database for LECO**  
