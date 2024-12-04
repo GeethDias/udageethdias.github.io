@@ -29,14 +29,6 @@ Here’s a glimpse into my journey so far:
    - Implemented Oracle VPD for granular data access control.  
    - Designed policies restricting user access to sensitive company data.
 
-3. **ISO 27001 Compliance Toolkit**  
-   - Created a toolkit for a bank to align its processes with ISO 27001 standards.  
-   - Designed ISMS policies and procedures for secure operations.
-
-4. **Metasploit Framework Tasks**  
-   - Conducted penetration testing using Metasploit across virtual networks.  
-   - Analyzed system vulnerabilities in a controlled environment.
-
 ---
 
 ## My Publlications
