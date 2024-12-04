@@ -4,7 +4,7 @@
 
 ---
 
-Hi! I'm **Udageeth Dias**, a third-year undergraduate specializing in **Cybersecurity** at the **Sri Lanka Institute of Information Technology (SLIIT)**. My journey revolves around exploring innovative solutions in information security, secure web development, and network protection.
+I'm **Udageeth Dias**, a third-year undergraduate specializing in **Cybersecurity** at the **Sri Lanka Institute of Information Technology (SLIIT)**. My journey revolves around exploring innovative solutions in information security, secure web development, and network protection.
 
 ---
 
