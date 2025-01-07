@@ -46,7 +46,8 @@ Here’s a glimpse into my journey so far:
 **Email**: udageeth.dias@example.com  
 **GitHub**: [udageethdias](https://github.com/udageethdias)  
 **Portfolio**: [udageethdias.github.io](https://udageethdias.github.io)  
-**LinkedIn**: [Udageeth Dias]([https://udageethdias.github.io](https://www.linkedin.com/in/udageeth-dias-3313142ab/))
+**LinkedIn**: [Udageeth Dias](https://www.linkedin.com/in/udageeth-dias-3313142ab/)
+
 
 ---
 
