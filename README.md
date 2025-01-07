@@ -26,8 +26,8 @@ Here’s a glimpse into my journey so far:
    - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), React Bootstrap.
 
 2. **Primitive Root Calculator**  
-   - Implemented Oracle VPD for granular data access control.  
-   - Designed policies restricting user access to sensitive company data.
+   - This application can calculate primitive roots for a given prime number.  
+   - Developed using React JS.
 
 ---
 
